@@ -1,0 +1,6 @@
+TRANSFERMARKT 2024 Project Overview
+
+For the TRANSFERMARKT 2024 project, I collected data from www.transfermarkt.com using web scraping techniques with Selenium and Beautiful Soup libraries. The project lasted from March 17 to March 27, 2024. Potential changes to the website's structure might require adjustments to the code in the future.
+Using Python and Pandas, I processed the scraped data and uploaded it to a Microsoft SQL Server database using SQLALCHEMY. Various testing methods such as manual comparison, Pandas data analysis functions, and mathematical operations were employed to ensure data accuracy. Additionally, database architecture design was crucial to structuring the data effectively.
+The project focused on gathering data from the top 25 European football leagues, including club information and player statistics such as performance, valuation, contracts, and numerous other metrics.
+The goal of this project is to showcase my Python skills and improve proficiency with Pandas, Matplotlib, and Seaborn libraries, with the aim of gathering data for further practice and exercises. The database now includes 25 leagues, 400 clubs, 8396 football games and data for 11,105 players.
